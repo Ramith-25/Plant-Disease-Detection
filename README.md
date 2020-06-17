@@ -1,4 +1,6 @@
 This project is still under development
+
+
 Plant Disease Detection
 Trained on 5 models
   01. Apple-> Apple scab
@@ -7,11 +9,3 @@ Trained on 5 models
   04. Apple-> healthy
   05. Blueberry-> healthy
   
-# Requirements:
-  01. Python
-  02. Tensorflow
-  03. Keras
-  04. Django
-  05. PIL
-  06. Numpy
-
