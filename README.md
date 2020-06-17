@@ -1,3 +1,4 @@
+This project is still under development
 # AI-Project
 Trained on 5 models
   01. Apple-> Apple scab
@@ -13,3 +14,4 @@ Trained on 5 models
   04. Django
   05. PIL
   06. Numpy
+
