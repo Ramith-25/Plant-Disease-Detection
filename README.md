@@ -1,5 +1,5 @@
 This project is still under development
-# AI-Project
+Plant Disease Detection
 Trained on 5 models
   01. Apple-> Apple scab
   02. Apple-> Black rot
